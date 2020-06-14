@@ -67,3 +67,7 @@ clean_before_run (){
 #start here:
 clean_before_run
 get_pkg_list
+
+
+###############################  introduce 该脚本用法说明  ##################################################
+
